@@ -8,6 +8,7 @@
   A barber scheduling app that allows users to schedule an appointment with his favorite barber and shows to the barber his agenda for the day.
 </h4>
 <p align="center">
+
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/elvinciqueira/api-gobarber">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/elvinciqueira/api-gobarber">
@@ -25,13 +26,17 @@
 
 </p>
 
+   [![Codacy Badge](https://api.codacy.com/project/badge/Grade/25776c0db0184a04893082f8a388010e)](https://app.codacy.com/manual/elvinciqueira/api-gobarber?utm_source=github.com&utm_medium=referral&utm_content=elvinciqueira/api-gobarber&utm_campaign=Badge_Grade_Dashboard)
+  
+---
+
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :rocket: Technologies
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/25776c0db0184a04893082f8a388010e)](https://app.codacy.com/manual/elvinciqueira/api-gobarber?utm_source=github.com&utm_medium=referral&utm_content=elvinciqueira/api-gobarber&utm_campaign=Badge_Grade_Dashboard)
+
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
