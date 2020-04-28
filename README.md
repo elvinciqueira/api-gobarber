@@ -15,7 +15,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/elvinciqueira/api-gobarber.svg">
   <a href="https://github.com/elvinciqueira/api-gobarber/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/elvinciqueira/api-gobarber">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/elvinciqueira/api-gobarber.svg">
   </a>
 
   <a href="https://github.com/elvinciqueira/api-gobarber/issues">
