@@ -27,8 +27,7 @@
 </p>
 
    [![Codacy Badge](https://api.codacy.com/project/badge/Grade/25776c0db0184a04893082f8a388010e)](https://app.codacy.com/manual/elvinciqueira/api-gobarber?utm_source=github.com&utm_medium=referral&utm_content=elvinciqueira/api-gobarber&utm_campaign=Badge_Grade_Dashboard)
-  
----
+
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;
@@ -54,7 +53,6 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 -  [VS Code][vc] with [ESLint][vceslint]
 
 ---
-
 Made with ♥ by Elvin Ciqueira
 
 [nodejs]: https://nodejs.org/
