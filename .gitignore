@@ -2,6 +2,6 @@
 .DS_STORE
 /yarn.lock
 build/
-
+coverage/
 tmp/*
 !tmp/.gitkeep

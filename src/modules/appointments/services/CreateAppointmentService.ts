@@ -1,5 +1,7 @@
-import { startOfHour } from 'date-fns';
+import 'reflect-metadata';
+
 import { inject, injectable } from 'tsyringe';
+import { startOfHour } from 'date-fns';
 
 import AppError from '@shared/errors/AppError';
 
