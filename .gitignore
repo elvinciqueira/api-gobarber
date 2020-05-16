@@ -3,5 +3,8 @@
 /yarn.lock
 build/
 coverage/
+.env
+ormconfig.json
+
 tmp/*
 !tmp/.gitkeep
